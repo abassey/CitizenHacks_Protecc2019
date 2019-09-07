@@ -3,10 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Protecc
 
-To run, npm dependencies need to be installed and within the 'ProteccSwift' subfolder, cocoapods need to be installed.
+To run, npm dependencies need to be installed and within the 'ProteccSwift' subfolder, cocoapods need to be installed. the inital Podfile is given. Run 
+## 'pod install'
+to install needed pod dependencies.
 
-
-
+Cocopods installation Guide: https://guides.cocoapods.org/using/getting-started.html
+Npm installation Guide: https://www.npmjs.com/get-npm
 
 
 
