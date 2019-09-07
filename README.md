@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+##Protecc
+
+To run, npm dependencies need to be installed and within the 'ProteccSwift' folder, cocoapods need to be installed.
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
